@@ -1,0 +1,144 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFF6F8FC"
+    },
+    {
+      "name": "kb_background",
+      "value": "#FFF1F4F9"
+    },
+    {
+      "name": "key_background",
+      "value": "#F2FFFFFF"
+    },
+    {
+      "name": "key_background_pressed",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "key_func_background",
+      "value": "#FFE2E8F1"
+    },
+    {
+      "name": "key_func_background_pressed",
+      "value": "#FFD5DEEA"
+    },
+    {
+      "name": "key_text",
+      "value": "#FF182235"
+    },
+    {
+      "name": "primary",
+      "value": "#FF007DFF"
+    },
+    {
+      "name": "surface_dark",
+      "value": "#FFF6F8FC"
+    },
+    {
+      "name": "surface_card",
+      "value": "#F2FFFFFF"
+    },
+    {
+      "name": "surface_card_pressed",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#CC263244"
+    },
+    {
+      "name": "text_muted",
+      "value": "#8A4B5568"
+    },
+    {
+      "name": "accent_green",
+      "value": "#FF168A4A"
+    },
+    {
+      "name": "danger",
+      "value": "#FFD92D45"
+    },
+    {
+      "name": "material_panel",
+      "value": "#DDF3F6FB"
+    },
+    {
+      "name": "material_card",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "material_key",
+      "value": "#F2FFFFFF"
+    },
+    {
+      "name": "material_key_pressed",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "material_func",
+      "value": "#FFE2E8F1"
+    },
+    {
+      "name": "material_func_pressed",
+      "value": "#FFD5DEEA"
+    },
+    {
+      "name": "material_func_active",
+      "value": "#FFBBD8FF"
+    },
+    {
+      "name": "material_primary",
+      "value": "#EE007DFF"
+    },
+    {
+      "name": "material_primary_pressed",
+      "value": "#FF1D67D6"
+    },
+    {
+      "name": "material_chip",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "material_chip_selected",
+      "value": "#FF4F9CFF"
+    },
+    {
+      "name": "material_light_effect",
+      "value": "#CCFFFFFF"
+    },
+    {
+      "name": "material_primary_light_effect",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "material_border",
+      "value": "#26182235"
+    },
+    {
+      "name": "segmented_background",
+      "value": "#CCDCE5F1"
+    },
+    {
+      "name": "slider_track",
+      "value": "#FFD5DEEA"
+    },
+    {
+      "name": "slider_block",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "composing_background",
+      "value": "#22007DFF"
+    },
+    {
+      "name": "settings_background",
+      "value": "#FFE8F7F4"
+    },
+    {
+      "name": "settings_icon_background",
+      "value": "#1A263244"
+    }
+  ]
+}

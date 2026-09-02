@@ -1,0 +1,7 @@
+{
+  "src": [
+    "InputMethodExtensionAbility/pages/Index",
+    "pages/InputMethodRequired",
+    "pages/Index"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "subtypes": [
+    {
+      "icon": "$media:icon",
+      "id": "LiquidIME_EN",
+      "label": "$string:english",
+      "locale": "en-US",
+      "mode": "lower"
+    },
+    {
+      "icon": "$media:icon",
+      "id": "LiquidIME_ZH",
+      "label": "$string:chinese",
+      "locale": "zh-CN",
+      "mode": "lower"
+    }
+  ]
+}
