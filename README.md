@@ -65,4 +65,6 @@ THIRD_PARTY_NOTICES.md            第三方词库与参考实现归属说明
 
 ## 许可
 
-本仓库暂未声明项目自身的开源许可证。使用、复制或分发前，请先确认项目维护者的授权，并遵守 `THIRD_PARTY_NOTICES.md` 中列出的第三方许可证。
+项目自有代码和资源采用 [MIT License](LICENSE)，允许使用、修改、Fork、商用和再分发，但须保留版权及许可声明。
+
+仓库内的第三方词库和参考材料不受 MIT License 覆盖，仍须遵守 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) 中列出的各自许可证。

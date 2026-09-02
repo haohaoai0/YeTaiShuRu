@@ -1,5 +1,9 @@
 # Third Party Notices
 
+The MIT License in the repository root applies only to the project's original
+code and resources. The third-party materials listed below remain subject to
+their respective licenses.
+
 ## Cassotis Lexicon
 
 This app includes generated Simplified Chinese lexicon files from Cassotis Lexicon:
